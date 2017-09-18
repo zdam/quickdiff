@@ -12,7 +12,7 @@ It's quick because you do not select which 2 documents to diff.
 
 (Prereqs): Node, npm
 
-Copy to your c:\<username>\.vscode\extensions directory
+Copy to your c:\<username>\\.vscode\extensions directory
 
 From a command line, type: npm install
 
@@ -20,5 +20,6 @@ From a command line, type: npm install
 
 Ctrl + Shift + P to open the command palette.
 Type qu
+
 Hit Enter
 
