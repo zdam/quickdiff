@@ -19,6 +19,7 @@ From a command line, type: npm install
 ## Usage
 
 Ctrl + Shift + P to open the command palette.
+
 Type qu
 
 Hit Enter
